@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lsapundzic/fullstack-open-backend/issues"
   },
-  "homepage": "https://github.com/lsapundzic/fullstack-open-backend#readme"
+  "homepage": "https://github.com/lsapundzic/fullstack-open-backend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
